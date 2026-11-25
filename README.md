@@ -13,4 +13,4 @@ Les dirigeants de PME et chefs de chantier perdent un temps précieux sur deux t
 - **Extraction documentaire :** `pypdf` pour le traitement et l'analyse directe de fichiers PDF métiers.
 
 ## 🚀 Accès à la démonstration en ligne
-- **Application interactive :** [Insérez votre lien Streamlit Cloud ici]
+- **Application interactive :** [https://assistant-ia-pme.streamlit.app/]
