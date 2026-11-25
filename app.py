@@ -88,7 +88,7 @@ with onglet1:
 
     if st.button("✨ Générer le compte rendu", type="primary"):
         if notes.strip():
-            with st.spinner("Analyse et rédaction en cours avec Gemini..."):
+            with st.spinner("Analyse et rédaction en cours ..."):
                 prompt = f"""
                 Tu es un assistant de gestion de projet expert pour les PME et le BTP.
                 À partir des notes brutes suivantes, rédige un livrable clair, structuré et directement exploitable.
